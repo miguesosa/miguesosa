@@ -55,15 +55,15 @@ hobbies: ["Music", "Cinema", "Coffee", "Books"]
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-### GitHub Stats 📊
-![stats](https://github-readme-stats.vercel.app/api?username=miguesosa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=miguesosa&theme=blue-green&hide_border=false)<br/>
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguesosa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###  GitHub Stats 📊
+| ![](https://github-readme-stats.vercel.app/api?username=miguesosa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguesosa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
+|:--:|:--:|
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=miguesosa&theme=blue-green&hide_border=true) | |
+
 
 ---
 ###  GitHub Trophies 🏆
-
-![](https://github-profile-trophy.vercel.app/?username=miguesosa&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=miguesosa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miguesosa&icon=0&color=0)](https://visitcount.itsvg.in)
