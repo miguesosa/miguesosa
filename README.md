@@ -56,9 +56,14 @@ hobbies: ["Music", "Cinema", "Coffee", "Books"]
 
 ---
 ###  GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=miguesosa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguesosa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=miguesosa&theme=blue-green&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguesosa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguesosa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguesosa&theme=blue-green&hide_border=true" />
+</p>
 
 
 ---
