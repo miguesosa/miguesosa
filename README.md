@@ -29,7 +29,7 @@ fields_of_interests:
 
 hobbies: ["Music", "Cinema", "Coffee", "Books"]
 ```
-
+---
 ### Some Tools I Have Used and Learned 💻
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,13 +54,26 @@ hobbies: ["Music", "Cinema", "Coffee", "Books"]
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+---
 ### GitHub Stats 📊
 ![stats](https://github-readme-stats.vercel.app/api?username=miguesosa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=miguesosa&theme=blue-green&hide_border=false)<br/>
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguesosa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+###  GitHub Trophies 🏆
+
+![](https://github-profile-trophy.vercel.app/?username=miguesosa&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
+
+---
 [![](https://visitcount.itsvg.in/api?id=miguesosa&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ### You can help me by Donating ☕
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/miguesosa) 
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
