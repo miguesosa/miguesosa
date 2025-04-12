@@ -83,13 +83,6 @@ hobbies: ["Music", "Cinema", "Coffee", "Books"]
 
 
 ---
-###  GitHub Trophies 🏆
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miguesosa&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
----
-![Profile views](https://visitcount.itsvg.in/api?id=miguesosa&label=Profile%20Views&color=1&icon=0&pretty=true)
 
 ### You can help me by Donating ☕
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/miguesosa) 
