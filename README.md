@@ -17,6 +17,8 @@ education:
 "Full Stack Python course on Codo a codo 4.0 - Ciudad de Buenos Aires",
 "UX/UI Design course on Codo a codo 4.0 - Ciudad de Buenos Aires",
 "Front End JS on TalentoTech - Ciudad de Buenos Aires",
+"Back End Node JS on TalentoTech - Ciudad de Buenos Aires",
+"Salesforce Developer on TalentoTech - Ciudad de Buenos Aires",
 ]
 
 fields_of_interests:
