@@ -13,24 +13,21 @@ company: University of Buenos Aires
 
 education:
 [
-"Developer analyst in Universidad abierta interamericana",
+"Developer analyst in Universidad Abierta Interamericana",
 "Full Stack Python course on Codo a codo 4.0 - Ciudad de Buenos Aires",
 "UX/UI Design course on Codo a codo 4.0 - Ciudad de Buenos Aires",
-"Front End JS on TalentoTech - Ciudad de Buenos Aires",
-"Back End Node JS on TalentoTech - Ciudad de Buenos Aires",
-"Salesforce Developer on TalentoTech - Ciudad de Buenos Aires",
+"Front End JS on Talento Tech - Ciudad de Buenos Aires",
 ]
 
 fields_of_interests:
 [
 "Web development",
-"Mobile development",
-"UI/UX",
 "Backend development in Javascript or Python",
-"Customer Service Representative",
+"UI/UX design",
+"Customer Service",
 ]
 
-hobbies: ["Music", "Cinema", "Coffee", "Books"]
+hobbies: ["Music composition and tech experiments", "Cinema", "Coffee", "Books"]
 ```
 ---
 ### Some Tools I Have Used and Learned 👨🏻‍💻
@@ -44,19 +41,14 @@ hobbies: ["Music", "Cinema", "Coffee", "Books"]
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### Frameworks & Libraries 📚
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 #### Databases 💾
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 #### Development Tools 💻
@@ -67,10 +59,11 @@ hobbies: ["Music", "Cinema", "Coffee", "Books"]
 
 #### Design & Productivity Tools 🎨
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 ---
 ###  GitHub Stats 📊
